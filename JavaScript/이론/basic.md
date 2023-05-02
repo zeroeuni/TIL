@@ -12,7 +12,13 @@
 
 숫자 , string, bolean(false),null,undefined 등등...
 boolean → true, false (amIfat = false;) 
-
++ number - 숫자 값이 들어감
++ string 문자나 문자열이 들어감
++ boolean true와 false가 들어감
++ undefined 찾을 수 없는 값
++ null 없는 값
++ nun not a number의 줄임말 숫자 값이 아닌데 강제로 바꿀때
+->문자값을 강제로 숫자로 바꿀때 (parseInt 를 사용가능)
 null ‘아무것도 없음’ 0,false와는 다름.<br><br>
 
 <h2>데이터 정리하는 법</h2>
