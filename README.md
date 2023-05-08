@@ -2,4 +2,4 @@
  <br>
  <ul>
   <li><h4>JavaScript</h4></li>
- 
+ <li><h4>TypeScript</h4></li>
