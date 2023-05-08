@@ -1,5 +1,5 @@
-# 😍Study😍 <br><h3>공부한 모든 것들에 대해서...😚</h3> 
- <br>
+# 😍Study😍 
+ 
  <ul>
-  <li><h4>JavaScript</h4></li>
- <li><h4>TypeScript</h4></li>
+  <li><h3>JavaScript</h3></li>
+ <li><h3>TypeScript</h3></li>
