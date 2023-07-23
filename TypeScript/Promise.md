@@ -50,16 +50,16 @@ async/await의 구조
 async 함수 내부에서 await 키워드를 사용하여 Promise를 기다릴 수 있다.</br> await 키워드는 Promise가 성공(resolve)할 때까지 기다리고, 결과를 반환한다.</br> 만약 Promise가 실패(reject)하면, 오류를 throw하게 된다.</br>
 
 ```typescript
-Copy code
 async function myAsyncFunction(): ReturnType {
   // 비동기 작업을 수행하고 결과를 반환하는 로직
   const result = await someAsyncOperation();
   return result;
 }
-async/await 사용하기
-예제 2: async/await를 이용한 Promise 사용
-typescript
-Copy code
+```
+
+## Async/Await 사용하기
+2: async/await를 이용한 Promise 사용</br>
+```typescript
 // 위의 fetchData 함수를 async/await로 사용하기
 async function fetchData(): Promise<string> {
   return new Promise((resolve, reject) => {
