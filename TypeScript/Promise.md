@@ -42,6 +42,7 @@ fetchData()
   });
 ```
 </br>
+
 ## Async/Await
 async/await는 Promise를 더 편리하게 다룰 수 있도록 도와주는 구문이다.</br> async 함수 안에서 비동기 작업을 동기적으로 처리할 수 있게 해준다.</br>
 
